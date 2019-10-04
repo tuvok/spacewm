@@ -1,6 +1,6 @@
-# MyWM
+# SpaceWM
 
-MyWM is a simple compositing Window Manager initially based on basic_wm:
+SpaceWM is a simple compositing Window Manager initially based on basic_wm:
 https://github.com/jichu4n/basic_wm
 
 ## Getting Started
@@ -16,8 +16,8 @@ X11 server with Compositing + development libraries
 ### Installing
 
 ```
-git clone -> ${mywm}
-cd ${mywm}
+git clone -> ${spacewm}
+cd ${spacewm}
 mkdir build
 cd build
 cmake ../

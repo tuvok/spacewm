@@ -1,2 +1,2 @@
 xterm&
-exec ./mywm
+exec ./spacewm
